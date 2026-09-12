@@ -1,12 +1,3 @@
-<!--
-  ███████╗██╗   ██╗██████╗ ███╗   ██╗ █████╗ ██████╗  ██████╗ ██╗   ██╗
-  ██╔════╝██║   ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██║   ██║
-  ███████╗██║   ██║██████╔╝██╔██╗ ██║███████║██████╔╝██║   ██║██║   ██║
-  ╚════██║██║   ██║██╔══██╗██║╚██╗██║██╔══██║██╔══██╗██║   ██║██║   ██║
-  ███████║╚██████╔╝██████╔╝██║ ╚████║██║  ██║██║  ██║╚██████╔╝╚██████╔╝
-  ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
--->
-
 <!-- ========================= HEADER ========================= -->
 
 <img
@@ -25,12 +16,12 @@
 <img
   height="170"
   src="./peeper.gif"
-  alt="Peeper swimming"
+  alt="Peeper of Subnautica swimming"
 />
 
 # 👋 Olá! Eu sou Isaac
 
-### Desenvolvedor • Estudante de Sistemas para Internet • Tecnologia, Software & IoT
+### Desenvolvedor • Estudante de Sistemas para Internet •  Software & IoT
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=38BDF8&width=900&size=21&center=true&vCenter=true&lines=Estudante+de+Sistemas+para+Internet;Desenvolvimento+Web+%7C+Backend+%7C+Software;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Next.js+%7C+Spring+Boot+%7C+Supabase;Raspberry+Pi+%7C+IoT+%7C+Rob%C3%B3tica;Sempre+aprendendo%2C+construindo+e+explorando!"
@@ -123,7 +114,7 @@ My GitHub is a collection of:
 | :---: | :---: | :---: | :---: |
 | Java, Python | HTML, CSS | Spring Boot | SQL |
 | JavaScript, TypeScript | Next.js | REST APIs | Supabase |
-| C / C++ | React | Node.js | MySQL |
+|  C++ | React | Node.js | MySQL |
 
 <br>
 
@@ -131,7 +122,7 @@ My GitHub is a collection of:
 | :---: | :---: | :---: | :---: |
 | Raspberry Pi | GPIO | Figma | Git |
 | Arduino | Sensors | UI/UX | GitHub |
-| Automation | Electronics | Prototyping | VS Code |
+| Automation | Electronics | Prototyping | VS Code / IntelliJ |
 
 </div>
 
@@ -240,7 +231,7 @@ My GitHub is a collection of:
 
 | 🧩 Programming | 🌐 Web & Backend | 🤖 IoT & Robotics | 🏗️ Engineering |
 | :--- | :--- | :--- | :--- |
-| OOP | REST APIs | Raspberry Pi | Git & GitHub |
+| POO | REST APIs | Raspberry Pi | Git & GitHub |
 | Algorithms | MVC | Sensors | Code organization |
 | Data Structures | Authentication | GPIO | Debugging |
 | CRUD | Integrations | Automation | Problem solving |
@@ -287,7 +278,7 @@ My GitHub is a collection of:
 
 <div align="center">
 
-# 🚀 What I Build
+# 🚀 O que já Contrui
 
 <br>
 
