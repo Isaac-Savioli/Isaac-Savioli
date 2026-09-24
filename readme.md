@@ -6,7 +6,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=52&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Isaac+Savioli"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=72&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&height=120&lines=Isaac+Savioli"
   alt="Isaac Savioli"
 />
 
@@ -18,11 +18,6 @@
 </p>
 
 </div>
-
-### Software Developer | Web, Systems & Data
-
-</div>
-
 
 ## About Me
 
