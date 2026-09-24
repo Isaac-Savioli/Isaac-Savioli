@@ -5,21 +5,27 @@
 
 <div align="center">
 
-# ISAAC SAVIOLI MACHADO
-
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&height=70&lines=ISAAC+SAVIOLI+MACHADO"
-  alt="Isaac Savioli Machado"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=52&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Isaac+Savioli"
+  alt="Isaac Savioli"
 />
+
+<p>
+  Web Development&nbsp;&nbsp;•&nbsp;&nbsp;
+  Systems Development&nbsp;&nbsp;•&nbsp;&nbsp;
+  Data Analysis&nbsp;&nbsp;•&nbsp;&nbsp;
+  IoT & Robotics
+</p>
+
+</div>
 
 ### Software Developer | Web, Systems & Data
 
 </div>
 
-```md
+
 ## About Me
 
-```java
 public class IsaacSavioliMachado {
 
     private String name;
@@ -32,9 +38,8 @@ public class IsaacSavioliMachado {
     public IsaacSavioliMachado() {
         this.name = "Isaac Savioli Machado";
         this.age = 20;
-
-        this.education = "Sistemas para Internet - FATEC";
-        this.technicalBackground ="Desenvolvimento de Sistemas - SENAI";
+        this.education = "Sistemas para Internet @ FATEC";
+        this.technicalBackground = "Desenvolvimento de Sistemas @ SENAI";
 
         this.career = "Software Developer";
 
@@ -46,6 +51,8 @@ public class IsaacSavioliMachado {
         };
     }
 }
+
+
 
 ## Áreas de interesse
 
