@@ -81,7 +81,7 @@ public class IsaacSavioliMachado {
   <img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
-`Java` • `Spring Boot` • `Python` • `APIs REST` • `CRUD` • `POO` • `TypeScript`
+`Java` • `Spring Boot` • `Python` • `APIs REST` • `CRUD` • `POO`
 
 ---
 
