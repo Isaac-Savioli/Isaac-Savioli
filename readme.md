@@ -20,7 +20,7 @@
 </div>
 
 ## About Me
-
+{
 public class IsaacSavioliMachado {
 
     private String name;
@@ -46,8 +46,7 @@ public class IsaacSavioliMachado {
         };
     }
 }
-
-
+}
 
 ## Áreas de interesse
 
