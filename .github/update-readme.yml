@@ -1,0 +1,28 @@
+name: Atualizar Cache do README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v3
+      
+      - name: Atualizar o parâmetro de cache no README
+        run: |
+          sed -i -E "s/(&v=)[0-9]+/\1$(date +%s)/g" README.md
+          
+      - name: Fazer o Commit e Push das alterações
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "chore: atualiza cache do github stats [skip ci]" || exit 0
+          git push

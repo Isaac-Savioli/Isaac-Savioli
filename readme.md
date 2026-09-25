@@ -138,7 +138,7 @@ public class IsaacSavioli {
 
 <a href="https://github.com/Isaac-Savioli">
   <img
-    src="https://streak-stats.demolab.com/?user=Isaac-Savioli&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Isaac-Savioli&theme=transparent&hide_border=true&v=1"
     alt="GitHub Streak"
   />
 </a>
