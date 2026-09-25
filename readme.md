@@ -124,10 +124,10 @@ public class IsaacSavioli {
 ### 🛠️ Ferramentas & Metodologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,trello,miro" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm" />
 </p>
 
-`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA`
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `WebStorm`
 • `Scrum` • `Kanban` • `Trello` • `Miro`
 
 ---
