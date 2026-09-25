@@ -21,14 +21,14 @@
 
 ## About Me
 
-public class IsaacSavioliMachado {
+public class IsaacSavioli {
 
-    private String name;
-    private int age;
-    private String education;
-    private String technicalBackground;
-    private String career;
-    private String[] interests;
+    String name;
+    int age;
+    String education;
+    String technicalBackground;
+    String career;
+    String[] interests;
 
     public IsaacSavioliMachado() {
         this.name = "Isaac Savioli Machado";
@@ -124,7 +124,7 @@ public class IsaacSavioliMachado {
 ### 🛠️ Ferramentas & Metodologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,trello,miro" />
 </p>
 
 `Git` • `GitHub` • `VS Code` • `IntelliJ IDEA`
