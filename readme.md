@@ -32,9 +32,9 @@ public class IsaacSavioli {
 
     public IsaacSavioliMachado() {
         this.name = "Isaac Savioli Machado";
-        this.age = 20;
-        this.education = "Sistemas para Internet @ FATEC";
-        this.technicalBackground = "Desenvolvimento de Sistemas @ SENAI";
+        this.age = 18;
+        this.education = "Sistemas para Internet na FATEC";
+        this.technicalBackground = "Desenvolvimento de Sistemas no SENAI";
 
         this.career = "Software Developer";
 
@@ -138,7 +138,7 @@ public class IsaacSavioli {
 
 <a href="https://github.com/Isaac-Savioli">
   <img
-    src="https://streak-stats.demolab.com/?user=Isaac-Savioli&theme=transparent&hide_border=true&v=1"
+    src="https://streak-stats.demolab.com/?user=Isaac-Savioli&theme=transparent&hide_border=true"
     alt="GitHub Streak"
   />
 </a>
